@@ -1,0 +1,18 @@
+PhotoCaptureApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/photocapture/
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── CSVReader.java
+│   │   │   │   └── PhotoUtils.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   └── strings.xml
+│   │   │   │   └── drawable/
+│   │   │   └── AndroidManifest.xml
+│   │   └── build.gradle
+├── build.gradle
+└── README.md
